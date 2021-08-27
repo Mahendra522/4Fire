@@ -85,8 +85,8 @@ class MatrixOperations{
     }
 };
 int main(){
-    MatrixOperations mo;
-    mo.matrixMultiplication();
+    MatrixOperations* mo = new MatrixOperations();
+    mo->matrixMultiplication();
     
     return 0;
 }
