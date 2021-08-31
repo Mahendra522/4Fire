@@ -6,7 +6,7 @@
 // 11*1*1*11 // 3rd Line: * -->3, 1--> 9-3 = 6
 // 1*1*1*1*1 // nth Line: * -->n, 1--> 9-n
 // *1*1*1*1*
-
+// After successfully inmplementing the above pattern you can replace the 1's with the ' '(blank) character.
 #include<iostream>
 #include <cmath>
 
